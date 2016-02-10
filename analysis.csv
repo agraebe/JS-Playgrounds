@@ -1,0 +1,61 @@
+Criteria,JSFiddle,CodePen,JSBin,Plunker,Liveweave,CSSDeck,Dabblet,Kodtest
+Efficiency,,,,,,,,
+Library Quick Load,yes,yes,yes,yes,yes,yes,no,yes
+Key Binding,yes,yes,yes,yes,"yes, kind of",yes,yes,not really
+Emmet,yes,yes,yes,yes,yes,yes,no,yes
+CSS Prefixing,yes (js lib integration),yes,yes (js lib integration),yes (js lib integration),yes (js lib integration),yes,yes,yes (js lib integration)
+CSS Reset,yes,yes,yes (js lib integration),yes (js lib integration),no,yes,no,yes (css integration)
+Beautify / Tidy,yes,yes,no,yes,no,no,no,no
+Linting,no,"Javascript, CSS","HTML, CSS, JS, CoffeeScript","Markdown, HTML, CSS, XML, JS","CSS, JS",JS,not really (w3c validation popup),no
+,,,,,,,,
+Live Reload,,,,,,,,
+HTML,no,yes,yes,yes,yes,yes,yes,es
+CSS,no,yes,yes,yes,yes,yes,yes,yes
+JS,no,yes,yes,yes,yes,yes,no,yes
+,,,,,,,,
+Preprocessing,,,,,,,,
+HTML,no,"Markdown, haml, slim, jade","Markdown, jade",Markdown,no,"HAML, Jade, Markdown, Slim",no,no
+CSS,SCSS,"SCSS, Sass, LESS, Stylus, PostCSS","LESS, Myth, Sass, SCSS, Stylus","Jade, Sass, LESS, Stylus",no,"LESS, Stylus, SASS, SCSS",no,no
+JS,"CoffeeScript, Babel, TypeScript","CoffeeScript, Babel, TypeScript, LiveScript","Babel, React, CoffeeScript, Traceur, TypeScript, LiveScript, Clojurescript","Babel, CoffeeScript, Traceur, TypeScript",no,CoffeScript,no,no
+,,,,,,,,
+Flexibility,,,,,,,,
+Arrangeable views,yes,yes,yes,yes,yes,yes,yes,yes
+OpenSource,no,no,yes,yes,no,no,yes,no
+Access to HEAD,actually yes,yes,yes,yes,yes,yes,no,yes
+Theming,no,yes,yes,yes,yes,no,no,yes
+Optimized for mobile,no,yes,no,no,not really,no,kind of,kind of
+Offline Mode (only self deployment),"no, only local drafts","no, only a questionable GitHub project",yes,yes,no,no,"probably, but no documentation",no
+,,,,,,,,
+Snippet Management,,,,,,,,
+Private Snippets,kind of (no public repo),PRO feature,PRO feature,yes,kind of (no public repo),yes,kind of (no public repo),kind of (no public repo)
+Versioning,yes,no,yes,yes,no,no,no,yes
+Fork Snippets,yes,yes,yes,yes,not really,yes,yes,yes
+Multipe Files,no,"not really, only Pen in Pen",no,yes,no,no,no,no
+,,,,,,,,
+Connectivity,,,,,,,,
+API,yes,yes,yes,yes,no,no,not yet,no
+StackOverflow Integration (Stack Snippets),"yes, but SO discourages it",no,no,no,no,no,no,no
+Browser Integration,yes,no,yes,no,no,no,yes,no
+,,,,,,,,
+Troubleshooting,,,,,,,,
+Debugging Mode,actually no,"yes, as RAW output page",kind of (see DOM tree),"yes, as preview page",no,"yes, as preview page","yes, as preview page",no
+Console View,no,yes,yes,no,no,no,no,no
+,,,,,,,,
+File Import,,,,,,,,
+Archives,no,no,no,not yet,no,no,no,no
+GitHub (gists),yes,no,yes,yes,no,no,no,no
+,,,,,,,,
+Project Export,,,,,,,,
+Web Embedding,yes,yes,yes,yes,no,yes,no,no
+Archive,no,yes,yes (single HTML),yes,yes,no,no,yes (single HTML)
+GitHub,no,yes,yes,no,no,no,yes,no
+,,,,,,,,
+Collaboration,,,,,,,,
+Profiles,yes,yes,yes (private),"yes, almost","yes, almost",yes,yes,"yes, almost"
+Portfolio,"not really, just personal","Pens, Posts, Collections",no,"yes, almost",no,yes,no,no
+Comments / Likes,no,yes,no,Stars,no,yes,no,no
+Live Collaboration,"Edit, Mouse, Chat, Mic","Edit, Cursor, Chat",not yet,Edit,"Edit, Mouse, Chat, Mic",not yet,no,no
+,,,,,,,,
+Community,,,,,,,,
+Twitter,yes (21k followers),yes (40k followers),yes (2.7k followers),yes (274 followers),yes (1093 followers),yes (10.3k followers),yes (1.3k followers),yes (161 followers)
+GitHub,"yes (213 stars, 700+ issues)","yes (13 stars, 82 issues)","yes (2675 stars, 1847 issues)","yes (447 stars, 98 issues)",no,no,"yes (661 stars, 216 issues)",no
